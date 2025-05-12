@@ -11796,9 +11796,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"react-native-svg-charts@workspace:.":
+"react-native-svg-charts-updated@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-native-svg-charts@workspace:."
+  resolution: "react-native-svg-charts-updated@workspace:."
   dependencies:
     "@commitlint/config-conventional": ^19.6.0
     "@eslint/compat": ^1.2.7
