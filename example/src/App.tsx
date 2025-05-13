@@ -1,12 +1,11 @@
-import { Text, View, StyleSheet } from 'react-native';
-import { multiply } from 'react-native-svg-charts';
-
-const result = multiply(3, 7);
+import { View, StyleSheet } from 'react-native';
+// @ts-ignore
+import { Grid } from '@volkish/react-native-svg-charts';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Result: {result}</Text>
+      <Grid />
     </View>
   );
 }
