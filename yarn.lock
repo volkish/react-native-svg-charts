@@ -3296,6 +3296,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/d3-interpolate-path@npm:^2.0.3":
+  version: 2.0.3
+  resolution: "@types/d3-interpolate-path@npm:2.0.3"
+  checksum: 22a68a6e8aba6955a8dcee662c6cf70c24aa23e6ea73178f70be7e7bb6de1dbb32e18e6f84c2adde51af22875519f5a36408398456391615c73b437eccdba494
+  languageName: node
+  linkType: hard
+
 "@types/estree@npm:^1.0.6":
   version: 1.0.7
   resolution: "@types/estree@npm:1.0.7"
@@ -3631,6 +3638,7 @@ __metadata:
     "@react-native/babel-preset": 0.78.2
     "@react-native/eslint-config": ^0.78.0
     "@release-it/conventional-changelog": ^9.0.2
+    "@types/d3-interpolate-path": ^2.0.3
     "@types/jest": ^29.5.5
     "@types/react": ^19.0.12
     commitlint: ^19.6.1
